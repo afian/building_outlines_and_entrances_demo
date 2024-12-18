@@ -1,0 +1,14 @@
+.app {
+  height: 100vh;
+  position: relative;
+
+  .location-panel {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 16px;
+    background: #fff;
+    padding: 10px 16px 16px 16px;
+    z-index: 2;
+  }
+}

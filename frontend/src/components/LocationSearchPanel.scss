@@ -1,0 +1,12 @@
+.location-search-panel {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+
+  h3 {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 8px 0;
+  }
+}
