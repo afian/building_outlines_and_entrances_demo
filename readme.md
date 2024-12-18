@@ -3,8 +3,8 @@
 ![Google Building Outline and Entrances API](https://blog.afi.io/content/images/size/w1600/2024/12/maps.png "Google Building Outline and Entrances API")
 
 Taken from: 
-- [The Google Maps Geocoding API (part 1 of 3)]()
-- [Google Address Descriptors (part 2 of 3)]()
+- The Google Maps Geocoding API (part 1 of 3)
+- Google Address Descriptors (part 2 of 3)
 - [Google Building Outlines and Entrances (part 3 of 3)](https://afi.io/blog/google-building-outlines-and-entrances-api/)
 
 How to run the app:
